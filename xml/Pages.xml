@@ -1,0 +1,10 @@
+<content width="400" height="609" bgcolor="ffffff" loadercolor="ffffff" panelcolor="000000" buttoncolor="5d5d61" textcolor="ffffff">
+	<page src="pages/page01.jpg"/>
+	<page src="pages/page02.jpg"/>
+	<page src="pages/page03.jpg"/>
+	<page src="pages/page04.jpg"/>
+	<page src="pages/page05.jpg"/>
+	<page src="pages/page06.jpg"/>
+	<page src="pages/page07.jpg"/>
+	<page src="pages/page08.jpg"/>
+</content>

@@ -1,0 +1,231 @@
+body {
+font-size:90%;
+font-family:'Lucida Grande', Arial, Sans-Serif;
+color:#fff;
+/*text-align:center;*/
+background-color:#000;
+}
+
+#header {
+height:150px;
+width:800px;
+background:url(images/header.jpg) no-repeat top center;
+margin:0 auto;
+padding:0;
+}
+
+#header h1 {
+font-size:22px;
+color:#5E91EB;
+text-align:right;
+padding-right:40px;
+padding-top:60px;
+}
+
+#header h1 a {
+color:#5E91EB;
+}
+
+#navigation {
+height:40px;
+line-height:40px;
+width:800px;
+border:1px solid;
+background:url(images/nav.jpg) no-repeat bottom center;
+margin:10px auto;
+}
+
+#navigation ul {
+list-style-type:none;
+text-align:center;
+margin:0;
+padding:0;
+}
+
+#navigation ul li {
+display:inline;
+}
+
+#navigation ul li a {
+text-decoration:none;
+color:#fff;
+text-transform:uppercase;
+font-size:13px;
+letter-spacing:1px;
+padding:14px 1em;
+}
+
+#navigation ul li a:hover {
+color:#4882B5;
+background:url(images/nav_hover.jpg) bottom center;
+}
+
+#wrapper {
+	min-height: 500px;
+	height: auto !important;
+	width: 800px;
+	margin: 15px auto;
+}
+
+#content-wrapper {
+width:700px;
+margin:10px auto;
+}
+
+#content-wrapper ul {
+width:700px;
+list-style-type:none;
+margin:0;
+padding:0;
+}
+
+#footer {
+width:800px;
+height:50px; /*original size 80px*/
+background-color:#000;
+background:url(images/footer.jpg) no-repeat bottom;
+border: 1px solid;
+margin:0 auto;
+padding:0;
+}
+
+#footer p {
+text-align:center;
+color:#fff;
+/*color:#4882B5;*/
+margin:0;
+padding:15px 0;
+}
+
+#footer a {
+color:#fff;
+letter-spacing:1px;
+text-decoration:none;
+}
+
+#footer a:hover {
+text-decoration:underline;
+}
+
+/* Being Unique Structures*/
+
+/*Used in index.html*/
+.news	{
+	text-align:center;
+}
+.intro {
+padding:20px 50px;
+}
+
+/*Used in calendar.html*/
+.calendar ul li {
+width:650px;
+text-align:left;
+border-left:3px solid;
+margin:10px;
+padding:0 0 10px 10px;
+}
+
+/*used in cjsconstitution.html*/
+.constitution h1,h2,h3,p {
+color:#fff;
+}
+
+/*used in events.html*/
+.event {
+width:700px;
+text-align:left;
+margin:0;
+}
+
+.event ul li {
+width:650px;
+text-align:left;
+border-left:3px solid;
+border-bottom:1px solid;
+margin:10px;
+padding:0 0 10px 10px;
+}
+
+/*used in matsuri.html*/
+.matsuri {
+width:700px;
+text-align:left;
+margin:0;
+}
+
+.matsuri ul li {
+width:650px;
+text-align:left;
+border-left:3px solid;
+border-bottom:1px solid;
+margin:10px;
+padding:0 0 10px 10px;
+}
+
+.matsuri ul li img{
+float:center;
+}
+
+/*used in board.html*/
+.member {
+width:700px;
+margin:0;
+}
+
+.member ul li {
+float:left;
+width:300px;
+text-align:left;
+border-left:1px solid;
+border-bottom:1px solid;
+margin:10px 15px;
+padding:0;
+}
+
+/* prevents breaking of li elements when used inside <li> */
+.member ul li br {
+clear:none;
+}
+
+/* breaks float of li elements */
+.member br {
+clear:left;
+}
+
+.member img {
+height:100px;
+width:100px;
+float:left;
+margin:0 10px 5px;
+}
+/* End Unique Structures*/
+
+/*Typography and colors*/
+p {
+font-size:90%;
+text-align:left;
+}
+
+a {
+color:#4682B4;
+text-decoration:none;
+}
+
+a:hover {
+color:#8B0000;
+text-decoration:underline;
+}
+
+h2 {
+color:#4682B4;
+font-size:125%;
+font-family:sans-serif;
+}
+
+h3 {
+color:#4682B4;
+font-size:110%;
+font-family:sans-serif;
+}
+

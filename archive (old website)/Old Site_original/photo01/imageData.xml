@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIMPLEVIEWER_DATA maxImageDimension="480" textColor="0xFFFFFF" frameColor="0xFFFFFF" bgColor="0x181818" frameWidth="15" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="right" navDirection="LTR" title="1st general meeting" imagePath="" thumbPath="">
+<IMAGE>
+	<NAME>activity1.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>activity2.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>a3.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>a4.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>a5.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+</SIMPLEVIEWER_DATA>

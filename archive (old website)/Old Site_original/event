@@ -1,0 +1,190 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Columbia Japan Society</title>
+<link rel="shortcut icon" href="butterfly.ico">
+<link rel="stylesheet" href="cjsstyle.css">
+<script src="smoothscroll.js" type="text/javascript"></script>
+<!-- scroll function thanks to Stuart Langridge: http://www.sitepoint.com/article/scroll-smoothly-javascript -->
+</head>
+
+<body>
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tbody><tr>
+      <td colspan="3"><a name="top"></a>
+      <img border="0" src="3shibuya.jpg" width="800" height="214"></td>
+    </tr>
+      <tr>
+      <td colspan="3">
+      <a href="index.htm">
+      <img src="mabout.jpg" border="0" width="229" height="29" /></a><a href="cast.htm"><img border="0" src="mjcast.jpg" width="49" height="29"></a><a href="events.htm"><img border="0" src="mevent.jpg" width="59" height="29"></a><a href="photos.htm"><img border="0" src="mphoto.jpg" width="58" height="29"></a><a href="jobs.htm"><img border="0" src="mjob.jpg" width="47" height="29"></a><a href="resources.htm"><img border="0" src="mjresources.jpg" width="81" height="29"></a><a href="contact.htm"><img border="0" src="mjcontact.jpg" width="277" height="29"></a></td>
+  </tr>
+  <tr>
+	<td width="30">&nbsp;</td>
+	<td width="220" height="50">&nbsp;</td>
+	<td width="550" align="right" valign="top"><a href="mailto:japansociety@columbia.edu?subject=subscribe"><img src="subscribe.jpg" border="0" width="186" height="26"></a></td>
+  </tr>
+  <tr>
+	<td>&nbsp;</td>
+	<td height="72" valign="top">
+		<p class="nav">
+	  		<a class="nav_h1" href="events.htm">Our Events</a><br><br>
+	  		<a class="nav_h2" href="#upc">Upcoming</a><br>
+			<a class="nav_h3" href="#mat">Matsuri</a><br>
+			<br>
+			<a class="nav_h2" href="#rec">Recent</a><br>
+			<a class="nav_h3" href="#cih">Curry in a Hurry</a><br>
+			<a class="nav_h3" href="#ori">Origami Night</a><br>
+	  		<a class="nav_h3" href="#sgm">2nd General Meeting</a><br>
+	  		<a class="nav_h3" href="#gsn">Game Show Night</a><br>
+			<a class="nav_h3" href="#mvn">Movie Night</a><br>
+			<a class="nav_h3" href="#sxs">Sexy Sushi</a><br>
+			<a class="nav_h3" href="#nyc">CJS Tour of NYC</a><br>
+			<a class="nav_h3" href="#fgm">1st General Meeting</a>
+		</p>
+		<p class="nav"><a class="nav_h1" href="events_sponsored.htm">Sponsored Events</a></p>
+		<p class="nav"><a class="nav_h1" href="events_outside.htm">Outside Events</a></p>
+	</td>
+	<td rowspan="2">
+		<p class="main_h1"><a name="upc">Upcoming</a></p>
+
+		<p class="main_h2"><a name="mat">Matsuri</a></p>
+		<pre>Our annual spring festival. More details to come.</pre>
+		<p class="main_h2">Date: Friday, April 28th, 2006<br>
+		Time: 5:00-9:00 PM<br>
+		Location: Low Plaza</p>
+		<o class="top"><a class="Main" href="#top"Top</a></p>
+
+		<p class="main_h1"><a name="rec">Recent</a></p>
+  
+		<p class="main_h2"><a name="cih">Curry in a Hurry</a></p>
+		<pre>Love curry? Come check out CJS's annual Curry in a Hurry 
+featuring curries from all around the world. 
+CJS, AAA, CSC, Liga Filipina, KPL, HKSSS,  TSA, SEAL,
+TASA, PDP, and VSA are participating, 
+providing you with curry, refreshments and dessert.
+
+It's just $5 for as much curry as you can handle. 
+Green tea, other drinks, dessert, rice, and more are all included. 
+It all starts at 7pm in Lerner C555, and goes until we run out.
+
+And come vote which club receives the right to the title: Imperial Sovereign of Curry!</pre>
+
+		<p class="main_h2">Date: Friday, February 24th, 2006<br>
+		Time: 7:00 PM<br>
+		Location: Lerner C555</p>
+		<o class="top"><a class="Main" href="#top"Top</a></p>
+
+
+		<p class="main_h2"><a name="ori">Origami Night!</a></p>
+		<pre>Come hang out with the board of CJS this friday, enjoy the FREE FOOD 
+and have fun creating your own origami creations, which one of our 
+OCMs guarantees to be quite the adventure!</pre>
+
+		<p class="main_h2">Date: Friday, February 17th, 2006<br>
+		Time: 7:00 PM<br>
+		Location: Satow (5th fl. Lerner)</p>
+		<o class="top"><a class="Main" href="#top"Top</a></p>
+
+
+		<p class="main_h2"><a name="sgm">Second General Membership Meeting</a></p>
+		<pre>Come talk with the board and mingle with other Japan Society 
+Members. Featuring free food, games, and entertainment, as well as 
+announcements of future events.
+
+Also showcasing what may be our best game as of yet: 
+
+              Ningen Tataki -- HUMAN Whack-A-Mole! 
+
+You won't want to miss it!</pre>		
+
+		<p class="main_h2">Date: Monday, January 30, 2006<br>
+        	Time: 7:00PM<br>
+        	Location: Satow (5th fl. Lerner)</p>
+		<p class="top"><a class="main" href="#top">Top</a></p>
+
+		<p class="main_h2"><a name="gsn">Game Show Night</a></p>
+		<pre>CJS "Zany Japanese Game Shows"-inspired Study Break
+
+Been living on fourth floor of Butler? Want to take a break from the
+numerous problem sets, papers, projects and exams but don't know
+where to go?
+
+Come to our study break Monday night for FREE FOOD and crazy
+Japanese-tv-show-inspired GAMES brought to you by our board!</pre>
+		<p class="main_h2">Date: Monday, November 14, 2005<br>
+      		Time: 9:00PM<br>
+      		Location: Lerner E568</p>
+		<p class="top"><a class="main" href="#top">Top</a></p>
+	 
+		<p class="main_h2"><a name="mvn">Movie Night</a></p>
+		<pre>This year, CJS presents the quintessential Japanese horror movie,
+INFECTION. INFECTION makes blatant use of the most stereotypical
+Japanese horror movie setting--the hospital. However, the movie
+proves to be refreshingly frightening to even those who may find
+the use of this archetypal setting tacky. For those yet unfamiliar 
+to the Japanese horror genre, INFECTION will be sure to give you a 
+very shocking introduction to the Japanese sense of horror.</pre>
+      	<p class="main_h2">Date: Saturday, October 27, 2005<br>
+			Time: 7:30PM<br>
+			Location: Lerner E569</p>
+	  	<p class="top"><a class="main" href="#top">Top</a></p>
+	  
+	  	<p class="main_h2"><a name="sxs">Sexy Sushi</a></p>
+        <pre>Come and join us for our annual Sexy Sushi Night.
+We're buying 50% more sushi-ingredients this year to keep you guys well fed! 
+So create-your-own, eat-all-you-like and party with us all evening. 
+You're welcome to dress sexily - or not! - but keep it classy.
+		
+The sexiest dressed person will win a $50 gift certificate to East.
+			
+Come eat sushi! . . . Or just come.</pre>
+        <p class="main_h2">Date: Saturday, October 22, 2005<br>
+          Time: 6:00PM<br>
+          Location: Lerner Party Space</p>
+		<p class="top"><a class="main" href="#top">Top</a></p>		  
+
+		<p class="main_h2"><a name="nyc">CJS Tour of NYC</a></p>
+        <pre>Once again, CJS will be holding a tour of Japanese "hot spots"
+according to the knowledgeable Miss Teriha Hashimoto, which will
+include Shobo-ji Zen Temple, Urasenke (tea house), Book Off! and
+the inevitable St. Marks area!  Sign up since space is limited, and
+be ready to sightsee and shop for practically anything
+Japan-related! As a treat, CJS will provide you with a free pastry
+from Beard Papa's Cream Puff!</pre>
+        <p class="main_h2">Date: Saturday, October 1, 2005<br>
+          Time: 10:00AM<br>
+          Location: 116th Gates</p>
+		<p class="top"><a class="main" href="#top">Top</a></p>
+		
+		<p class="main_h2"><a name="fgm">First General Membership Meeting</a></p>
+        <pre>Come meet the board and mingle with other Japan Society Members.
+Featuring free food, games, and entertainment, as well as announcements on future events.
+		
+Got rice? If not, you can win a rice cooker!
+		
+Get the <a class="main" href="flyers/cjs_genmeetflyer.pdf" target="_blank">flyer</a></pre>
+		<p class="main_h2">Date: Saturday, September 24, 2005<br>
+        	Time: 7:30PM<br>
+        	Location: Lerner E569</p>
+		<p class="top"><a class="main" href="#top">Top</a></p>
+	</td>
+  </tr>
+  <tr>
+	<td>&nbsp;</td>
+	<td valign="top">
+	</td>
+  </tr>
+  <tr>
+	<td colspan="3">
+		<img src="eventcjs1.jpg" width="800" height="92"></td>
+  </tr>
+  <tr>
+	<td class="sig" colspan="3">GRAPHIC DESIGN BY <a style="color: #C0C0C0;" href="http://www.citydrifter.net" target=_"blank">CITYDRIFTER.NET</a></td>
+  </tr>
+</tbody></table>
+</center>
+</body>
+
+</html>

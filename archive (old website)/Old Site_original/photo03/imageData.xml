@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIMPLEVIEWER_DATA maxImageDimension="480" textColor="0xFFFFFF" frameColor="0xFFFFFF" bgColor="0x181818" frameWidth="15" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="right" navDirection="LTR" title="juon movie nite" imagePath="" thumbPath="">
+<IMAGE>
+	<NAME>m15.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m14.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m13.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m12.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m11.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m10.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m1.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m2.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m3.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m4.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m5.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m6.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m7.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m9.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>m8.jpg</NAME>
+	<CAPTION></CAPTION>
+</IMAGE>
+</SIMPLEVIEWER_DATA>
